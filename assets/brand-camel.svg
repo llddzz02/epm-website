@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300">
+  <rect x="46" y="72" width="328" height="178" rx="22" fill="#f6f8f3"/>
+  <rect x="86" y="48" width="66" height="28" rx="8" fill="#10202b"/>
+  <rect x="268" y="48" width="66" height="28" rx="8" fill="#10202b"/>
+  <rect x="78" y="108" width="264" height="88" rx="12" fill="#c84b3a"/>
+  <text x="210" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#ffffff">CAMEL</text>
+  <rect x="120" y="214" width="180" height="14" rx="7" fill="#0c2d48" opacity=".86"/>
+</svg>

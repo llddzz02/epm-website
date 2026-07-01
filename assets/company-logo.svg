@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">EPM logo</title>
+  <desc id="desc">Ever Progress Marketing logo placeholder.</desc>
+  <rect width="160" height="160" rx="24" fill="#0c2d48"/>
+  <path d="M34 48h92v64H34z" fill="#f2b84b"/>
+  <path d="M45 64h70v32H45z" fill="#ffffff" opacity=".92"/>
+  <text x="80" y="91" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#0c2d48">EPM</text>
+  <path d="M34 48h92v16H34z" fill="#187b7a"/>
+  <path d="M32 112h96" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity=".35"/>
+</svg>
